@@ -1,5 +1,6 @@
 # homeoffice-asus-merlin
-asus merlin setup, due to the covid condition, people now spend more time work from home, this include me as well. I am currently using Asus ax86u and ac68u for my home office. Createing this documents, in order to keep the changes and backups , so i can always restore them quickly</br>
+This is repo for howto set up the Asus router at your home, please adjust by yourself, and welcome to raise PR for adding anything</br>
+Due to the covid condition, people now spend more time work from home, this include me as well. I am currently using Asus ax86u and ac68u for my home office. Createing this documents, in order to keep the changes and backups , so i can always restore them quickly</br>
 
 Here is what it looks now, as you can see , I am using the aimesh for this two routers at this moment
 
