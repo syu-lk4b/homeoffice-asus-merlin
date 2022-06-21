@@ -37,7 +37,7 @@ Since it's not easy to get a fixed IP in your home, so we need the helps from th
 
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/3851844/174716879-22b1b1c3-c0cf-4b25-afe4-daf2b2d60d53.png">
 
-### Enable the DMZ or PortMapping in your ISP modem
+### Enable the DMZ or PortMapping in modem
 This is for Shanghai(China telcom ISP only), other ISP or areas maybe different, Please change accordingly.
 If you are using bridge mode , please ignore this step </br>
 I personally recommended the port-mapping, as DMZ is mapping entire ports to your router , that's not secure. 
