@@ -19,8 +19,8 @@ https://github.com/hq450/fancyss </br>
 ## My router config backup
 This will be encrpyted, in case it has some sentive informations
 
-## Enable IpSec VPN
-the reason to enabled the IPsec VPN is that you can easily enabled this VPN client in any devices. There are many other vpn options, however some of them require install special software, but for the ipsec VPN , most of the client has installed it by default. </br>
+## Enable IPSec VPN
+the reason to enable the IPsec VPN is that you can easily setup this type IPsec VPN client in any devices. There are many other vpn options, however some of them require install special software, but for the ipsec VPN , most of the OS system has already installed or included by default, you only need simply config it. </br>
 
 Why you need the VPN in the router, here is two reason for myself.</br>
 1, VPN back to home network, so I coudl WoL my NAS get anything from it </br>
