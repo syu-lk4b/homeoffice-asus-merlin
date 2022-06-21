@@ -28,7 +28,7 @@ Why you need the VPN in the router, here is two reason for myself.</br>
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/3851844/174716543-c30da649-c80e-42b8-9854-b523aeb294be.png">
 
 ### Enable the DDNS
-Since it's not easy to get a fixed IP in your home, so we need the helps from the DDNS service, It will query your public IP address and automatic update the DNS record to the DNS. I am using the namecheap DDNS 
+Since it's not easy to get a fixed IP in your home, so we need the helps from the DDNS service, It will query your public IP address and automatic update the DNS record. I am currently using the namecheap DDNS "namecheap.com"
 
 <img width="1236" alt="image" src="https://user-images.githubusercontent.com/3851844/174716791-34e61f77-ed1f-4e60-adbd-921fe087ed45.png">
 
