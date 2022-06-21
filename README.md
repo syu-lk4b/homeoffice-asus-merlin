@@ -2,7 +2,7 @@
 asus merlin setup, due to the covid condition, people now spend more time work from home, this include me as well. I am currently using Asus ax86u and ac68u for my home office. Createing this documents, in order to keep the changes and backups , so i can always restore them quickly
 
 ## Firmware download
-here is the two place that I used for downloading the new firmwares normally
+here is the two place that I used for downloading the new firmwares normally </br>
 https://www.asuswrt-merlin.net/download </br>
 https://fw.koolcenter.com/ </br>
 
