@@ -17,3 +17,21 @@ https://github.com/hq450/fancyss </br>
 
 ## My router config backup
 This will be encrpyted, in case it has some sentive informations
+
+## Other Special setup
+Enable IPTV in the main router (ax86u), plugin it to the modem port#3, not sure why, but others doesn't work.
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/3851844/174714828-0cc834df-769a-40b6-a730-3ad73a092e06.png">
+
+On my second router which is aimesh worker router(ac68u), you have to add this command in order to let the vlan aware the iptv traffics. 
+```
+syuadmin@RT-AC68U-55A8:/jffs/scripts# pwd
+/jffs/scripts
+syuadmin@RT-AC68U-55A8:/jffs/scripts# cat wan-start
+#!/bin/sh
+/koolshare/bin/ks-wan-start.sh start
+robocfg vlan 51 ports "0t 1t 2t 3t 4t" vlan 85 ports "0t 1t 2t 3t 4t"
+syuadmin@RT-AC68U-55A8:/jffs/scripts#
+```
+
+
+
