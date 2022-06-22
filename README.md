@@ -55,7 +55,9 @@ I personally recommended the port-mapping, as DMZ is mapping entire ports to you
 Enable IPTV in the main router (ax86u), plugin it to the modem port#3, not sure why, but others doesn't work.
 <img width="754" alt="image" src="https://user-images.githubusercontent.com/3851844/174714828-0cc834df-769a-40b6-a730-3ad73a092e06.png">
 
-On my second router which is aimesh worker router(ac68u), you have to add this command in order to let the vlan aware the iptv traffics. 
+
+If you IPTV box is directly connect to the main router(ax86), you could ignore this steps, My IPTV box is connected to the agent router, in order to let your second router aware the IPTV vlans ,here is the command you have to run. </br>
+On my second router which is aimesh worker router(ac68u), you have to add this command in order to let the vlan aware the iptv traffics. </br>
 ```
 syuadmin@RT-AC68U-55A8:/jffs/scripts# pwd
 /jffs/scripts
