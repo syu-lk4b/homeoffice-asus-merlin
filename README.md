@@ -12,6 +12,10 @@ here is the two place that I used for downloading the new firmwares normally </b
 https://www.asuswrt-merlin.net/download </br>
 https://fw.koolcenter.com/ </br>
 
+### Firmware upgrade and details
+please refer to https://www.koolcenter.com/posts/135 
+
+
 ## Plugins for Merlin
 Since I am in China, in order to bypass GFW, you need some special plugins, here is the link for this plugin,I've also download it here , in case for some reason the upstream is blocked or removed. (this happens before, i guess you konw the reason)
 https://github.com/hq450/fancyss </br>
