@@ -28,7 +28,7 @@ the reason to enable the IPsec VPN is that you can easily setup this type IPsec 
 
 Why you need the VPN in the router, here is two reason for myself.</br>
 1, VPN back to home network, so I coudl WoL my NAS get anything from it </br>
-2. I could relay on my home router for bypassing the GFW </br>
+2. I could relay on my home router for bypassing the GFW anytime, and in my home router, I have config the auto failover method</br>
 3. When I travel outside of China, I could VPN back to use some services which only allowed the China IPs, eg Netease, Youku...
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/3851844/174716543-c30da649-c80e-42b8-9854-b523aeb294be.png">
 
